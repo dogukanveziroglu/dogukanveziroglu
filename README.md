@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello there, I'am Doğukan Veziroğlu 👋
 
-<!--
-**dogukanveziroglu/dogukanveziroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student** | Focused on Java & Data Science | Passionate about software development and anything about computers.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages**: Java, Python, C
+- **Specialties**: Object-Oriented Programming (OOP), Data Science, Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- **Profit Manager**: A business management system built in Java to help small businesses manage their inventory, sales, orders, and taxes.
+- **Hearts of Iron IV Mods**: I've developed several mods for the popular strategy game **Hearts of Iron IV**, enhancing gameplay mechanics, new focus trees and adding custom features.
+- **AWS WireGuard VPN Setup**: Deployed a WireGuard VPN on AWS for secure, fast, and efficient cloud network management.
+
+## 📚 Currently Learning
+- Advanced Java Development
+- Machine Learning with Python
+- Cloud Computing and Docker
+
+  ## 🌍 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dogukan-veziroglu)
+- **E-mail**: [dogukanvzroglu@gmail.com](mailto:dogukanvzroglu@gmail.com)
+
+  ## 🎮 My Hobbies
+- Developing mods for strategy games like Hearts of Iron IV, Europa Universalis IV
+- Reading about history and military strategies
+- Exploring new technologies and programming languages
