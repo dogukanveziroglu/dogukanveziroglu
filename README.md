@@ -2,7 +2,7 @@
 
 # Doğukan Veziroğlu
 
-**AI & Backend Team Lead @ Kairu**
+**Chief Technology Officer @ Kairu**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogukan-veziroglu)
 [![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/dogukanvzr)
